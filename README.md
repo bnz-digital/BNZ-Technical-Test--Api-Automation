@@ -13,6 +13,7 @@ This isn't a exam, there are no right or wrong solutions. We are more interested
 
    
 Notes
+-
 Use whichever libraries you feel conformable with.
 Add your source code to GitHub and send us the link.
 Thanks!
