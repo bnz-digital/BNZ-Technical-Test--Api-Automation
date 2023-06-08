@@ -10,8 +10,8 @@ This isn't a exam, there are no right or wrong solutions. We are more interested
 2.	Using any opensource tool of your choice please automate  the test case.
 3.	Add validations to the response appropriately.
 4.	Using similar approach ,automate a testcase to find weather data for Auckland.
+5.For auckland Add daily wehather variables,weathercode and sunrise **without** passing the  mandatory timezone  parameter, capture and validate the response. 
 
-   
 Notes
 -
 Use whichever libraries you feel conformable with.
